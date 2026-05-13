@@ -1,0 +1,9 @@
+playwright==1.49.0
+pandas
+transformers
+torch
+scikit-learn
+seaborn
+matplotlib
+tqdm
+datasets
